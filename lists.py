@@ -7,7 +7,7 @@ print shopList
 
 shopList.append("Blueberries")
 print shopList
-
+ 
 shopList[0] = "Cherries"
 print shopList
 
